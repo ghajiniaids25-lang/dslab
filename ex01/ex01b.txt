@@ -1,0 +1,43 @@
+ds-lab@ds-lab-System-Product-Name:~/dslab 421125106025/ex01$ ./a.out
+
+Singly Linked List Operation Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 1
+Enter data to insert at end: 10
+
+Singly Linked List Operation Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 5
+Linked List: 10-> NULL
+
+Singly Linked List Operation Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 3
+Enter element to search: 10
+Element found at position: 0
+
+Singly Linked List Operation Menu:
+1. Insert at End
+2. Insert at Position
+3. Search Element
+4. Delete Element
+5. Display List
+6. Exit
+Enter your choice: 4
+Enter position to delete (0 - based index): 1
+
